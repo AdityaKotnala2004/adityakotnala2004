@@ -10,28 +10,32 @@
 
 ## 🌟 About Me
 
-> Passionate **Full Stack Developer** from Delhi, India 🇮🇳, specializing in **AI-powered web solutions** and modern development practices.
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF">
+</div>
+
+> 🚀 **Passionate Full Stack Developer** from Delhi, India 🇮🇳  
+> 💡 Specializing in **AI-powered web solutions** and cutting-edge technology  
+> 🎯 Currently mastering **Java Web Development with AI** at **HCLTech**  
+> ⚡ **Mission**: Bridging the gap between AI and Web Development  
 
 ```javascript
 const aditya = {
     location: "Delhi, India 🏛️",
-    currentFocus: ["AI Integration", "Full Stack Development", "Modern Web Apps"],
-    learning: ["Advanced AI/ML", "Cloud Architecture", "DevOps"],
-    askMeAbout: ["React", "Node.js", "Python", "AI/ML", "System Design"],
-    funFact: "I turn coffee into code and ideas into reality! ☕→💻"
+    currentRole: "Java Web Development with AI Trainee @ HCLTech",
+    passion: ["Building Scalable Applications", "AI Integration", "Problem Solving"],
+    currentFocus: ["Enterprise Java", "AI/ML Integration", "Modern Web Frameworks"],
+    learning: ["Advanced AI Algorithms", "Cloud Architecture", "Microservices"],
+    askMeAbout: ["React", "Node.js", "Python", "AI/ML", "System Design", "Full Stack Development"],
+    goals2025: ["Master AI Integration", "Contribute to Open Source", "Build Impactful Projects"],
+    funFact: "I turn coffee into code and dreams into digital reality! ☕→💻✨",
+    motto: "Code with purpose, build with passion! 🚀"
 };
 ```
 
-## 💼 Professional Journey
-
-### 🔥 Current Role
-**Java Web Development with AI Trainee** at HCLTech *(Dec 2024 - Mar 2025)*
-- 🚀 Mastering enterprise-level Java development and AI integration
-- 🎯 Building scalable web applications with modern frameworks
-
-### 🌟 Recent Experience
-- **Full Stack Developer Intern** @ Opalina Technologies *(May - Aug 2025)*
-- **Full Stack Developer Intern** @ Trihari Smart Solutions *(Jul - Aug 2025)*
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -66,35 +70,11 @@ const aditya = {
 
 </div>
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  
-### 🏆 Synora - HackArena 2025 Winner
-> **AI-powered community platform for student-mentor interactions**
-- 🤖 Real-time collaboration with secure database integration
-- 🎯 Built for seamless student-mentor tracking and participation
-- 🔧 **Tech**: React, Node.js, MongoDB, Socket.io
-
----
-
-### 📄 RAG Application - Document Intelligence
-> **Advanced PDF processing with AI-powered semantic search**
-- 📊 Full-stack RAG implementation with HeartAPI & Vector DB
-- 🔍 Intelligent document-aware chatbot interactions
-- 🔧 **Tech**: Python, FastAPI, Vector Database, NLP
-
----
-
-### 🚗 Uber-Clone - Full Stack Application
-> **Complete ride-hailing solution with real-time features**
-- 🗺️ Live tracking via Socket.io and Google Maps API
-- 🔐 Secure JWT authentication with bcrypt
-- 🔧 **Tech**: React, Node.js, Express, MongoDB
-
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Data Analytics GIF">
 </div>
-
-## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityakotnala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -106,50 +86,68 @@ const aditya = {
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakotnala&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adityakotnala&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ## 🎯 Current Goals & Learning
 
 <div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400" alt="Coding GIF">
+</div>
+
+<div align="center">
   
 ```mermaid
 mindmap
-  root((Aditya's Journey))
-    AI/ML Mastery
-      Deep Learning
-      MLOps
-      AI Integration
-    Full Stack Excellence
-      Microservices
-      Cloud Architecture  
+  root((Aditya's 2025 Journey))
+    🤖 AI/ML Mastery
+      Deep Learning Frameworks
+      MLOps & Model Deployment
+      AI-Web Integration
+      Natural Language Processing
+    💻 Full Stack Excellence
+      Enterprise Java Development
+      Microservices Architecture
+      Cloud-Native Solutions
       Performance Optimization
-    Open Source
-      Contributing to Projects
-      Building Communities
-      Knowledge Sharing
+    🌟 Innovation & Growth
+      Open Source Contributions
+      Tech Community Building
+      Mentoring & Knowledge Sharing
+      Building Impactful Solutions
 ```
 
 </div>
 
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Advanced AI/ML algorithms and cloud architecture**
-- 👯 Looking to collaborate on **innovative full-stack projects**
-- 💬 Ask me about **React, Node.js, Python, AI integration**
-- ⚡ Fun fact: **I believe every problem has an elegant solution!**
-
-## 🌐 Let's Connect!
-
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-adityakotnala6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakotnala6@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_9560214885-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919560214885)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kotnala-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityakotnala)
+
+### 🚀 What I'm Up To
+
+| 🔭 **Currently Working On** | 🌱 **Learning** | 👯 **Looking to Collaborate** |
+|:--:|:--:|:--:|
+| AI-Powered Web Applications | Advanced AI/ML Algorithms | Innovative Full-Stack Projects |
+| Enterprise Java Projects | Cloud Architecture & DevOps | Open Source Contributions |
+| Modern Web Solutions | System Design Patterns | AI Integration Projects |
 
 </div>
 
+- 💡 **Passionate about**: Creating solutions that make a difference
+- 🎯 **2025 Goals**: Master AI integration in web development
+- ⚡ **Fun fact**: I believe every bug is just a feature waiting to be discovered! 🐛➡️✨
+- 🏆 **Philosophy**: Code with passion, innovate with purpose!
+
+## 🌐 Let's Connect & Collaborate!
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityakotnala&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  
+[![Email](https://img.shields.io/badge/Email-adityakotnala6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:adityakotnala6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kotnala-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/adityakotnala)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/adityakotnala)
+
 </div>
 
 ---
