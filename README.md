@@ -11,13 +11,21 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Coding GIF">
 </div>
 
-> 🚀 **Passionate Full Stack Developer** from Delhi, India 🇮🇳  
-> 💡 Specializing in **AI-powered web solutions** and cutting-edge technology  
-> 🎯 Currently mastering **Java Web Development with AI** at **HCLTech**  
-> ⚡ **Mission**: Bridging the gap between AI and Web Development  
+<table align="center" style="border: none;">
+<tr>
+<td style="border: none; vertical-align: top; padding: 20px;">
+
+🚀 **Passionate Full Stack Developer** from Delhi, India 🇮🇳  
+💡 Specializing in **AI-powered web solutions** and cutting-edge technology  
+🎯 Currently mastering **Java Web Development with AI** at **HCLTech**  
+⚡ **Mission**: Bridging the gap between AI and Web Development  
+
+</td>
+</tr>
+</table>
 
 ```javascript
 const aditya = {
@@ -146,7 +154,7 @@ mindmap
   
 [![Email](https://img.shields.io/badge/Email-adityakotnala6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:adityakotnala6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kotnala-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/adityakotnala)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/adityakotnala2004)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/adityakotnala)
 
 </div>
 
@@ -156,7 +164,7 @@ mindmap
   
 ### 💡 "The best way to predict the future is to create it." - Peter Drucker
 
-<img src="https://komarev.com/ghpvc/?username=adityakotnala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AdityaKotnala2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ### 🚀 Ready to collaborate? Let's build something extraordinary together! 
 
