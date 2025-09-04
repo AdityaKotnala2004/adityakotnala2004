@@ -148,15 +148,23 @@ mindmap
 
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityakotnala&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
 ---
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 "The best way to predict the future is to create it." - Peter Drucker
 
 <img src="https://komarev.com/ghpvc/?username=adityakotnala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+### 🚀 Ready to collaborate? Let's build something extraordinary together! 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="60">
+
+**Thanks for visiting! Let's innovate together! 🌟**
 
 </div>
 
