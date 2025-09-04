@@ -146,7 +146,7 @@ mindmap
   
 [![Email](https://img.shields.io/badge/Email-adityakotnala6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:adityakotnala6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kotnala-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/adityakotnala)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/adityakotnala)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/adityakotnala2004)
 
 </div>
 
