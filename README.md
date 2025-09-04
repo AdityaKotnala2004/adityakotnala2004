@@ -27,20 +27,6 @@
 </tr>
 </table>
 
-```javascript
-const aditya = {
-    location: "Delhi, India 🏛️",
-    currentRole: "Java Web Development with AI Trainee @ HCLTech",
-    passion: ["Building Scalable Applications", "AI Integration", "Problem Solving"],
-    currentFocus: ["Enterprise Java", "AI/ML Integration", "Modern Web Frameworks"],
-    learning: ["Advanced AI Algorithms", "Cloud Architecture", "Microservices"],
-    askMeAbout: ["React", "Node.js", "Python", "AI/ML", "System Design", "Full Stack Development"],
-    goals2025: ["Master AI Integration", "Contribute to Open Source", "Build Impactful Projects"],
-    funFact: "I turn coffee into code and dreams into digital reality! ☕→💻✨",
-    motto: "Code with purpose, build with passion! 🚀"
-};
-```
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
