@@ -97,7 +97,7 @@
   
 ```mermaid
 mindmap
-  root((Aditya's 2025 Journey))
+  root((My Journey))
     🤖 AI/ML Mastery
       Deep Learning Frameworks
       MLOps & Model Deployment
