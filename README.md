@@ -20,7 +20,7 @@
 
 🚀 **Passionate Full Stack Developer** from Delhi, India 🇮🇳  
 💡 Specializing in **AI-powered web solutions** and cutting-edge technology  
-🎯 Currently mastering **Java Web Development with AI** at **HCLTech**  
+🎯 Mastered **Java Web Development with AI** at **HCLTech**  
 ⚡ **Mission**: Bridging the gap between AI and Web Development  
 
 </td>
