@@ -75,10 +75,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakotnala&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakotnala&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
-
+-->
 
 
 ## 🎯 Current Goals & Learning
