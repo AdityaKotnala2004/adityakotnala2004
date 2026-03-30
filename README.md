@@ -83,9 +83,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakotnala&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityakotnala&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
+
 
 ## 🎯 Current Goals & Learning
 
