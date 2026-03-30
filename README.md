@@ -90,6 +90,16 @@
 <div align="center">
   
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 
+  'primaryColor': '#FF6B6B',
+  'primaryTextColor': '#ffffff',
+  'primaryBorderColor': '#ff4757',
+  'lineColor': '#70a1ff',
+  'secondaryColor': '#1e90ff',
+  'tertiaryColor': '#2ed573',
+  'background': '#f5f6fa'
+}}}%%
+
 mindmap
   root((My Journey))
     💻 Full Stack Excellence
