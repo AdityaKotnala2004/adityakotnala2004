@@ -92,11 +92,6 @@
 ```mermaid
 mindmap
   root((My Journey))
-    🤖 AI/ML Mastery
-      Deep Learning Frameworks
-      MLOps & Model Deployment
-      AI-Web Integration
-      Natural Language Processing
     💻 Full Stack Excellence
       Enterprise Java Development
       Microservices Architecture
